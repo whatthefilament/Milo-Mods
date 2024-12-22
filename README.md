@@ -1,10 +1,11 @@
 # Milo-Mods
 Mods for the Millenium Milo V1.5
 
-Killdozer Assembly (Full Milo model with including all mods)
+Assembly (Full Milo model with including all mods)
   - The assembly file is too large to upload to github so feel free to grab it from the following google drive link: 
 https://drive.google.com/file/d/14Q4tji5UvftqPMq36rpVDlpaYGVunyvt/view?usp=sharing
 
+Mods
 Killdozer Frame reinforcement Mod
 - Part Count
   -   FMJ sides x 2
