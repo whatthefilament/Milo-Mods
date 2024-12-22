@@ -6,17 +6,15 @@ Assembly (Full Milo model with including all mods)
 https://drive.google.com/file/d/14Q4tji5UvftqPMq36rpVDlpaYGVunyvt/view?usp=sharing
 
 Mods
-Killdozer Frame reinforcement Mod
-- Part Count
-  -   FMJ sides x 2
-  -   Front x 1
-  -   Rear x 1
-  -   Lower x 2
-  -   Dampers x 6 (https://www.mcmaster.com/9254K43/)
-  -   Feet x 6 (https://www.mcmaster.com/93115K111/)
+- Killdozer Frame reinforcement Mod
+  - Part Count
+    -   FMJ sides x 2
+    -   Front x 1
+    -   Rear x 1
+    -   Lower x 2
+    -   Dampers x 6 (https://www.mcmaster.com/9254K43/)
+    -   Feet x 6 (https://www.mcmaster.com/93115K111/)
 
-LDO 110v VFD Din Rail mount
-
-Precision tool offset bracket
-
-Probe Holder
+- LDO 110v VFD Din Rail mount
+- Precision tool offset bracket
+- Probe Holder
