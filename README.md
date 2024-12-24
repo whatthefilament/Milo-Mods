@@ -18,3 +18,5 @@ Mods
 - LDO 110v VFD Din Rail mount
 - Precision tool offset bracket
 - Probe Holder
+- Casa 7 Inch Display Mount
+  - Utilizes Generic 7 Inch Raspberry Pi Display (https://www.amazon.com/dp/B0BKGCB18T?th=1)
