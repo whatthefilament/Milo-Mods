@@ -20,3 +20,7 @@ Mods
 - Probe Holder
 - Casa 7 Inch Display Mount
   - Utilizes Generic 7 Inch Raspberry Pi Display (https://www.amazon.com/dp/B0BKGCB18T?th=1)
+- SST Air Manifold Mount/Bracket
+- Solenoid Mounts
+  - DIN Rail Mount 
+  - Magnetic Mount (Utilizes Standard 6x3mm magnetic glued into print
